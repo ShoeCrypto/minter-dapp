@@ -26,7 +26,6 @@
 body {
   background-image: url(background.png);
   background-repeat: no-repeat
-  flex-flow: column;
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
