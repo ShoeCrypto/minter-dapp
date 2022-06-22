@@ -24,7 +24,6 @@
 }
 
 body {
-  background-color: var(--bg-color);
   background-image: url(backgroung.png);
   background-repeat: no-repeat;
   display: flex;
