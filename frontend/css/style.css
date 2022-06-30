@@ -8,11 +8,11 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
-  --font-color: #ffffff;
+  --bg-color: #5f80bd;
+  --bg-color-transparent: #434e6180;
+  --font-color: #251e1e;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #43703f;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -25,6 +25,8 @@
 
 body {
   background-image: url(backgroung.png);
+  background-repeat: no-repeat;
+  background-color: rgb(255, 255, 255);
   display: flex;
   flex-flow: column;
   height: 100vh;
