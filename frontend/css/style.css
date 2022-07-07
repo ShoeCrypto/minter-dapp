@@ -48,6 +48,7 @@ body {
 
 header {
   background-color: var(--bg-color);
+  background-image: url(background.png);
   box-shadow: var(--header-shadow);
 }
 
