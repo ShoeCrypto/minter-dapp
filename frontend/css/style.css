@@ -54,6 +54,8 @@ header {
   background-image: url(background.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: top center;
+  background-size: cover;
   box-shadow: var(--header-shadow);
 }
 
