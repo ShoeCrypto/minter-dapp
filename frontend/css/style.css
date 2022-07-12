@@ -52,6 +52,8 @@ body {
 header {
   background-color: var(--bg-color);
   background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   box-shadow: var(--header-shadow);
 }
 
